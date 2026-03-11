@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+.odd-bunch {
+    color: black;
+    background-color: #ffc0cb;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    font-size: 20px;
+
+}
+
+.bigger-text {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000ff;
+    font-family: 'DejaVu Sans', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+#green {
+    color: #000000;
+    font-weight:700;
+    background-color: #90ee90;
+}
